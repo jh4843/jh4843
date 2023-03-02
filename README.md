@@ -1,4 +1,19 @@
+
+## Jaehyeok portfolio
+
+### Indroducing myse
+I started working as a S/W developer in semiconductort fields & medical device (PACS, Picture Archiving and Communication System)
+
+### Portfolio site
+
+### Skils
+
+
+
+
 ### Hi there 👋
+
+
 
 <!--
 **jh4843/jh4843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

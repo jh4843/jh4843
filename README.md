@@ -1,17 +1,16 @@
 
-## Jaehyeok portfolio
+## ✨ Jaehyeok portfolio ✨
 
 ### Indroducing myse
+
+Hi there 👋
 I started working as a S/W developer in semiconductort fields & medical device (PACS, Picture Archiving and Communication System)
+
 
 ### Portfolio site
 
 ### Skils
 
-
-
-
-### Hi there 👋
 
 
 

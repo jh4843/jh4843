@@ -8,12 +8,17 @@ Hi there 👋
 I started working as a S/W developer in semiconductor fields & medical device (PACS, Picture Archiving and Communication System)
 
 
-### Portfolio site (building)
+### Portfolio site
 
 [Jaehyeok portfolio](https://denv-portfolio-jh4843.vercel.app/)
 
 ### Skils
 
+![c++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white&style=flat-square)
+![node.js](https://img.shields.io/badge/-node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![mssql](https://img.shields.io/badge/-mssql-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
 
 
 

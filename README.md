@@ -6,6 +6,7 @@
 Hi there 👋
 
 Working as a S/W developer in semiconductor fields & medical device (PACS, Picture Archiving and Communication System).
+
 Hope to be a program developer away from the machinery. 🙏
 
 

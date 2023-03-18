@@ -12,7 +12,7 @@ I started working as a S/W developer in semiconductor fields & medical device (P
 
 [Jaehyeok portfolio](https://denv-portfolio-jh4843.vercel.app/)
 
-### Skils
+### Skills
 
 ![c++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
 ![javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)

@@ -1,11 +1,12 @@
 
 ## Jaehyeok portfolio
 
-### Indroducing myse
+### Indroducing myself
 
 Hi there 👋
 
-I started working as a S/W developer in semiconductor fields & medical device (PACS, Picture Archiving and Communication System)
+Working as a S/W developer in semiconductor fields & medical device (PACS, Picture Archiving and Communication System).
+Hope to be a program developer away from the machinery. 🙏
 
 
 ### Portfolio site

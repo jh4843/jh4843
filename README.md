@@ -21,6 +21,9 @@ Hope to be a program developer away from the machinery. 🙏
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white&style=flat-square)
 ![node.js](https://img.shields.io/badge/-node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 ![mssql](https://img.shields.io/badge/-mssql-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
+![nuxt](https://img.shields.io/badge/-nuxt-00DC82?logo=nuxtdotjs&logoColor=white&style=flat-square)
+![flutter](https://img.shields.io/badge/-flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+
 
 
 

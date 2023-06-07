@@ -17,12 +17,14 @@ Hope to be a program developer away from the machinery. 🙏
 ### Skills
 
 ![c++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![vue](https://img.shields.io/badge/-vuejs-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)
+![nuxt](https://img.shields.io/badge/-nuxt-00DC82?logo=nuxtdotjs&logoColor=white&style=flat-square)
+![flutter](https://img.shields.io/badge/-flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white&style=flat-square)
 ![node.js](https://img.shields.io/badge/-node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 ![mssql](https://img.shields.io/badge/-mssql-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
-![nuxt](https://img.shields.io/badge/-nuxt-00DC82?logo=nuxtdotjs&logoColor=white&style=flat-square)
-![flutter](https://img.shields.io/badge/-flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+
 
 
 

@@ -9,6 +9,8 @@ Working as a S/W developer in semiconductor fields & medical device (PACS, Pictu
 
 Hope to be a program developer away from the machinery. 🙏
 
+### Study site
+[Devitworld](http://kr.devitworld.com/)
 
 ### Portfolio site
 
